@@ -1,11 +1,10 @@
-== README
+# Ruby on Rails Tutorial: sample application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample application
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 4.2.1 
 
 * System dependencies
 
