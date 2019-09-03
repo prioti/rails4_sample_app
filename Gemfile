@@ -2,7 +2,11 @@ source 'https://rubygems.org'
 ruby '>=2.4.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.9'
+# gem 'rails', '4.2.9'
+gem 'rails', '~> 4.2', '>= 4.2.11.1'
+
+#gem 'actionview', '>= 4.2.11.1'
+#gem 'activejob', '>= 4.2.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
