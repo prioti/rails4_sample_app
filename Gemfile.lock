@@ -170,7 +170,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   jbuilder (~> 2.10.0)
   pg
-  rails (~> 5.2.4.2)
+  rails (~> 5.2.4.2, < 6)
   rails_12factor
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
