@@ -29,6 +29,12 @@ gem "json", ">= 2.3.0"
 gem "rack", ">= 2.2.3"
 #
 
+
+# August update
+#gem "json", ">= 2.3.0"
+gem "rack", ">= 2.2.3"
+#
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7
 
